@@ -1,0 +1,43 @@
+.account-creation-form {
+    max-width: 700px;
+    padding: 20px;
+    background-color: #63dcb9;
+    border: 1px solid rgb(34, 15, 15);
+    border-radius: 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+    padding-right: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgb(175, 26, 26);
+    border-radius: 3px;
+  }
+  
+  .submit-btn {
+    background-color: #e7719a;
+    color: rgb(67, 22, 22);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #5893d2;
+  }
+  
+  .submit-btn:focus {
+    outline: none;
+  }
+  
